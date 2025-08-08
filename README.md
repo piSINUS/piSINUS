@@ -6,7 +6,10 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:timofejsolovov70@gmail.com) 
-
+<a href="https://t.me/your_channel" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="20" style="vertical-align: middle;">
+  Перейти в Telegram
+</a>
 
 
 # 💻 Tech Stack:
