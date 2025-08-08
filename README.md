@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdoMW5ncWpqbG01NncyMWIxcHJ2cDZubTVvd3hraTl4Y3R0bzZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf7WGUJLbiqIryo/giphy.gif" width="100"/>
+</div>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:timofejsolovov70@gmail.com) 
