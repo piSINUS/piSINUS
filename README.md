@@ -1,3 +1,35 @@
+
+<style>
+    .telegram-button {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 20px;
+      background-color: #0088cc;
+      color: white;
+      text-decoration: none;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .telegram-button:hover {
+      background-color: #006699;
+    }
+
+    .telegram-icon {
+      width: 20px;
+      height: 20px;
+      margin-right: 10px;
+    }
+  </style>
+<a class="telegram-button" href="https://t.me/your_channel" target="_blank">
+    <img class="telegram-icon" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon">
+    Перейти в Telegram
+  </a>
+
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdoMW5ncWpqbG01NncyMWIxcHJ2cDZubTVvd3hraTl4Y3R0bzZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf7WGUJLbiqIryo/giphy.gif" width="1000"/>
 </div>
